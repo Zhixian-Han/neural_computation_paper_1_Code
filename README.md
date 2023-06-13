@@ -10,7 +10,7 @@ The Code might generate different numbers with different randomly generated data
 
 The nonlinear decoder results might be more variable across different randomly generated datasets, and the linear decoder results are more stable across different datasets 
 
-The differences between one-pathway and two-pathway networks may be small for some randomly generated datasets, and the differences are larger for some randomly generated datasets. For larger differences between one-pathway and two-pathway networks, please see the Paper: https://doi.org/10.1162/neco_a_01559 and its Code 
+The differences between one-pathway and two-pathway networks may be small for some randomly generated datasets, and the differences are larger for some randomly generated datasets. For larger differences between one-pathway and two-pathway networks, please see the Paper: https://doi.org/10.1162/neco_a_01559 and its Code https://github.com/Zhixian-Han/neural_computation_paper_2_Code 
 
 
 
